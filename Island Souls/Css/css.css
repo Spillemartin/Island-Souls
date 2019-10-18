@@ -135,7 +135,7 @@ button:hover {
 }
 
 .about .infobox p{
-    color: #0A91AB;
+    color: black;
     font-size: 20px;
 }
 
@@ -180,6 +180,10 @@ button:hover {
 
 .protocontent .box{
     background-color: #FFC045;
+}
+
+.protocontent p{
+    font-size: 20px;
 }
 
 #0A91AB; blå    
