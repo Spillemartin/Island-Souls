@@ -122,7 +122,7 @@ button:hover {
     background-color: #FFB045;
 }
 
-
+/*about us */
 
 .about .infobox{
     width: 94%;
@@ -155,8 +155,33 @@ button:hover {
 
 .about .box p{
     float:right;
-    
 }
+
+/*prototype*/
+
+
+.protocontent{
+    width: 90%;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.protocontent .picbox{
+    width: 47%;
+    display: inline-block;
+    padding: 1%;
+}
+
+.protocontent .picbox img{
+    width:100%;
+    height: 400px;
+}
+
+.protocontent .box{
+    background-color: #FFC045;
+}
+
 #0A91AB; blå    
 
 #FFC045; gul
