@@ -41,15 +41,18 @@ a{
 .mission {
     text-align: center;
     font-size: 20px;
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: 10%;
+    margin-right: 10%;
     margin-top: 20px;
     background-color: #0A91AB;
     padding: 15px;
 }
 
+.mission h1 {
+    color: #FFC045
+}
+
 .mission p{
-    text-align: left;
     color: #FFC045;
 }
 
