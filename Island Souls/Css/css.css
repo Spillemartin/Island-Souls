@@ -26,11 +26,12 @@ a{
     font-family: monospace;
 }
 
-.top .logo img {
+.top .logo .logoimg img{
     position:absolute;
     float: left;
     width: 75px;
-    padding-left: 1%;
+    padding:0;
+    margin-top: 20px;
 }
 
 
