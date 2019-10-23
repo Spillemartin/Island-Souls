@@ -58,7 +58,6 @@ a{
 }
 
 
-
 .innhold .box {
     width: 80%;
     padding: 5%;
@@ -152,13 +151,26 @@ button:hover {
     width: 44%;
     float: left;
 }
+
 .about .box .profil img{
     width: 20%;
-    margin-right: 1%;
+    margin-right: 2%;
+    float:left
 }
 
+
 .about .box p{
-    float:right;
+    float: left;
+    padding: 0;
+    margin: 0;
+    color: #FFC205;
+}
+
+.about .box a{
+    float:left;
+    padding: 0;
+    margin: 0;
+    
 }
 
 /*prototype*/
