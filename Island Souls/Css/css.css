@@ -22,7 +22,7 @@ body{
 a{
     text-decoration: none;
     padding: 1em;
-    color: #FFC045;
+    color: #FFCF72;
     font-family: monospace;
 }
 
@@ -45,16 +45,21 @@ a{
     margin-left: 10%;
     margin-right: 10%;
     margin-top: 20px;
-    background-color: #0A91AB;
+    background-color: #FFC045;
     padding: 15px;
 }
 
+hr{
+    border-color: black;
+    width: 60%;
+}
+
 .mission h1 {
-    color: #FFC045
+    color: black;
 }
 
 .mission p{
-    color: #FFC045;
+    color: black;
 }
 
 
@@ -63,21 +68,26 @@ a{
     padding: 5%;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 5%;
+    margin-top: 20px;
     color: #0A91AB;
     text-align: center;
 }
 
 .contactbox {
     width: 80%;
-    background-color: #0A91AB;
+    background-color: #FFC045;
     margin: auto;
-    color: #FFC045;
+    color: black;
+    font-size: 20px;
+}
+
+.contactbox a{
+    color: black;
 }
 
 .contactbox h1 {
     font-size: 3em;
-    border-bottom: 0.5em solid #FFC045;
+    border-bottom: 0.5em solid #0A91AB;
 }
 
 .contactbox h1, p {
@@ -115,14 +125,14 @@ button {
     margin-top: 2%;
     margin-bottom: 2%;
     font-size: 1.2em;
-    background-color: #FFC045;
-    color: #0A91AB;
+    background-color: #0A91AB ;
+    color: #FFC045;
     font-family: inherit;
     border: 1px solid black;
 }
 
 button:hover {
-    background-color: #FFB045;
+    background-color: #0A76AB;
 }
 
 /*about us */
@@ -131,7 +141,7 @@ button:hover {
     width: 94%;
     margin-right: auto;
     margin-left: auto;
-    margin-top: 15px;
+    margin-top: 20px;
     text-align: center;
     background-color: #FFC045;
     padding: 10px;
@@ -160,14 +170,13 @@ button:hover {
 
 
 .about .box p{
-    float: left;
     padding: 0;
     margin: 0;
     color: #FFC205;
+    font-size: 20px
 }
 
 .about .box a{
-    float:left;
     padding: 0;
     margin: 0;
     
